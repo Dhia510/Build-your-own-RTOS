@@ -1,0 +1,181 @@
+!SESSION 2024-07-02 17:23:53.230 -----------------------------------------------
+eclipse.buildId=Version 1.12.1
+java.version=11.0.17
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-07-02 17:24:34.573
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-07-02 17:24:34.589
+!MESSAGE Log4j2 initialized with config file E:\Build your own RTOS\GCC_STM32CUBEIDE\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-07-02 17:24:40.343
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-07-02 18:04:15.058
+!MESSAGE Indexed '0_led_driver' (3 sources, 53 headers) in 2.69 sec: 1,949 declarations; 2,832 references; 1 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.042%)
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 4 0 2024-07-02 19:15:58.245
+!MESSAGE Failed to parse wmic output
+!STACK 0
+org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:261)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at com.st.stm32cube.ide.mpu.remote.serial.internal.SerialPortProviderWindows.run(SerialPortProviderWindows.java:127)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 4 0 2024-07-02 19:15:59.199
+!MESSAGE Failed to parse wmic output
+!STACK 0
+org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:261)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at com.st.stm32cube.ide.mpu.remote.serial.internal.SerialPortProviderWindows.run(SerialPortProviderWindows.java:127)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 4 0 2024-07-02 19:16:00.199
+!MESSAGE Failed to parse wmic output
+!STACK 0
+org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:261)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at com.st.stm32cube.ide.mpu.remote.serial.internal.SerialPortProviderWindows.run(SerialPortProviderWindows.java:127)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 4 0 2024-07-02 19:16:01.200
+!MESSAGE Failed to parse wmic output
+!STACK 0
+org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:261)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at com.st.stm32cube.ide.mpu.remote.serial.internal.SerialPortProviderWindows.run(SerialPortProviderWindows.java:127)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 4 0 2024-07-02 19:16:02.200
+!MESSAGE Failed to parse wmic output
+!STACK 0
+org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:261)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at com.st.stm32cube.ide.mpu.remote.serial.internal.SerialPortProviderWindows.run(SerialPortProviderWindows.java:127)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 4 0 2024-07-02 19:16:03.200
+!MESSAGE Failed to parse wmic output
+!STACK 0
+org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:261)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at com.st.stm32cube.ide.mpu.remote.serial.internal.SerialPortProviderWindows.run(SerialPortProviderWindows.java:127)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 4 0 2024-07-02 19:16:04.201
+!MESSAGE Failed to parse wmic output
+!STACK 0
+org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:261)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at com.st.stm32cube.ide.mpu.remote.serial.internal.SerialPortProviderWindows.run(SerialPortProviderWindows.java:127)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 4 0 2024-07-02 19:16:05.201
+!MESSAGE Failed to parse wmic output
+!STACK 0
+org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:261)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at com.st.stm32cube.ide.mpu.remote.serial.internal.SerialPortProviderWindows.run(SerialPortProviderWindows.java:127)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 4 0 2024-07-02 19:16:06.202
+!MESSAGE Failed to parse wmic output
+!STACK 0
+org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:261)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at com.st.stm32cube.ide.mpu.remote.serial.internal.SerialPortProviderWindows.run(SerialPortProviderWindows.java:127)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 4 0 2024-07-02 19:16:07.202
+!MESSAGE Failed to parse wmic output
+!STACK 0
+org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:261)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at com.st.stm32cube.ide.mpu.remote.serial.internal.SerialPortProviderWindows.run(SerialPortProviderWindows.java:127)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 4 0 2024-07-02 19:16:08.202
+!MESSAGE Failed to parse wmic output
+!STACK 0
+org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:261)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at com.st.stm32cube.ide.mpu.remote.serial.internal.SerialPortProviderWindows.run(SerialPortProviderWindows.java:127)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 4 0 2024-07-02 19:16:09.203
+!MESSAGE Failed to parse wmic output
+!STACK 0
+org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:261)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at com.st.stm32cube.ide.mpu.remote.serial.internal.SerialPortProviderWindows.run(SerialPortProviderWindows.java:127)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 4 0 2024-07-02 19:16:10.203
+!MESSAGE Failed to parse wmic output
+!STACK 0
+org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; Premature end of file.
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:261)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at com.st.stm32cube.ide.mpu.remote.serial.internal.SerialPortProviderWindows.run(SerialPortProviderWindows.java:127)
+	at java.base/java.util.TimerThread.mainLoop(Timer.java:556)
+	at java.base/java.util.TimerThread.run(Timer.java:506)
+!SESSION 2024-07-03 14:10:12.079 -----------------------------------------------
+eclipse.buildId=Version 1.12.1
+java.version=11.0.17
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-07-03 14:15:58.958
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-07-03 14:16:30.932
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-07-03 14:16:30.948
+!MESSAGE Log4j2 initialized with config file E:\Build your own RTOS\GCC_STM32CUBEIDE\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-07-03 14:16:50.776
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-07-04 15:05:12.410 -----------------------------------------------
+eclipse.buildId=Version 1.12.1
+java.version=11.0.17
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=fr_FR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-07-04 15:06:17.973
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-07-04 15:06:17.986
+!MESSAGE Log4j2 initialized with config file E:\Build your own RTOS\GCC_STM32CUBEIDE\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-07-04 15:06:28.135
+!MESSAGE Started RMI Server, listening on port 41337
